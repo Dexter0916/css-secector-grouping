@@ -10,7 +10,7 @@
 
 /* other item postaviti font-size:0.5rem preko kombinacije kombinatora multiole combiner*/
 
-.kuc{
+h1, h2{
     color: blueviolet;
 }
 div > p{
