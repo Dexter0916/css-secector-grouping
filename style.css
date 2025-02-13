@@ -9,3 +9,22 @@
 /* zadnje dvije list item preko chainig matode color: seagreen; */
 
 /* other item postaviti font-size:0.5rem preko kombinacije kombinatora multiole combiner*/
+
+.kuc{
+    color: blueviolet;
+}
+div > p{
+    color: firebrick;
+}
+div ul{
+    color: blue;
+}
+ul li:nth-child(2) {
+    color: seagreen;
+}
+ul li:nth-child(3) {
+    color: seagreen;
+}
+ul>p {
+    font-size: 0.5rem;
+}
